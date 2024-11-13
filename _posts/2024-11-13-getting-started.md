@@ -4,7 +4,7 @@ description: >-
   이곳은 저의 깃허브 블로그입니다.
 author: simsi012
 date: 2024-11-13 20:03:00 +0800
-categories: [Blogging]
+categories: [Blog, Blah Blah]
 tags: [Start]
 pin: true
 media_subpath: '/posts/20180809'
