@@ -1,7 +1,7 @@
 ---
 title: 블로그 만드는 과정
-author: cotes
-date: 2019-08-08 14:10:00 +0800
+author: simsi012
+date: 2024-11-13 22:20:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
 render_with_liquid: false
