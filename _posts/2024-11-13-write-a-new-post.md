@@ -2,9 +2,9 @@
 title: 블로그 만드는 과정
 author: simsi012
 date: 2024-11-13 22:20:00 +0800
-categories: [Tutorial, Blog Making]
+categories: [Blog, Blog Making]
 tags: [writing]
-render_with_liquid: false
+pin: True
 ---
 
 준비물

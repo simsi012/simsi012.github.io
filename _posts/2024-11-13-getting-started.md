@@ -7,9 +7,9 @@ date: 2024-11-13 20:03:00 +0800
 categories: [Blog, Blah Blah]
 tags: [Start]
 pin: true
-media_subpath: '/posts/20180809'
 ---
 
-## 방문을 환영합니다.
+방문을 환영합니다.
+=================  
 
 평소 관심 분야 그리고 작업물 굳이 코드가 아니여도 이것저것 올려보겠습니다.
