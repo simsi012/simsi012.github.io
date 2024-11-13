@@ -2,7 +2,7 @@
 title: 블로그 만드는 과정
 author: simsi012
 date: 2024-11-13 22:20:00 +0800
-categories: [Blogging, Tutorial]
+categories: [Tutorial]
 tags: [writing]
 render_with_liquid: false
 ---
