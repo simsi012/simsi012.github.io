@@ -2,7 +2,8 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+author: simsi012
+published: true
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Since.2024.11.13~
