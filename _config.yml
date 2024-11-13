@@ -30,6 +30,7 @@ github:
 
 # twitter:
   # username: twitter_username # change to your Twitter username
+future: true
 
 social:
   # Change to your full name.
