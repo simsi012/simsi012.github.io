@@ -1,10 +1,14 @@
 ---
-title: 블로그 만드는 과정
+title: 블로그 제작기.1
+description: >-
+  이곳은 저의 깃허브 블로그입니다.
 author: simsi012
-date: 2024-11-13 22:20:00 +0800
+date: 2024-11-13 23:19:00 +0800
 categories: [Blog, Making]
-tags: [writing]
-pin: True
+tags: [Start, Make, Work]
+pin: true
+---
+
 ---
 
 준비물
