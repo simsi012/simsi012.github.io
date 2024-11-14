@@ -34,4 +34,5 @@ https://github.com/SKHU-OSS-2024-2/information/blob/main/blog.md
 그럴 때 "published: true"를 메타데이터에 삽입하여 해결했습니다.
 
 또한 홈화면에 게시한 게시글들이 뜨지 않는 방법을 home.html 수정을 통해 해결하였습니다.
+
 chat.gpt를 통해 수정했는데 자세한 방법은 추후에 업데이트 하겠습니다.
