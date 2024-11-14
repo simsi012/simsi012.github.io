@@ -1,7 +1,7 @@
 ---
 title: 블로그 제작기.1
 description: >-
-  이곳은 저의 깃허브 블로그입니다.
+  레포지토리 만들기 부터 테마 적용 그리고 포스팅
 author: simsi012
 date: 2024-11-13 23:19:00 +0800
 categories: [Blog, Making]
@@ -24,6 +24,7 @@ published: true
 본격적인 제작기.
 ---------------
 저는 우선 학교 교수님께서 만드신 방법을 그대로 했습니다.
+
 https://github.com/SKHU-OSS-2024-2/information/blob/main/blog.md
 
 이대로 따라한 후에 post를 업데이트 했습니다.
