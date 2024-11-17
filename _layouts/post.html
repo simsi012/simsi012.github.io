@@ -20,6 +20,11 @@ tail_includes:
       <p class="post-desc fw-light mb-4">{{ page.description }}</p>
     {% endif %}
 
+    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span id="busuanzi_container_page_pv">
+    <span id="busuanzi_value_page_pv"></span> views
+    </span>
+    
     <div class="post-meta text-muted">
       <!-- published date -->
       <span>
@@ -88,10 +93,7 @@ tail_includes:
               </em>
               {{ site.data.locales[lang].post.pageview_measure }}
             </span>
-            <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-            <span id="busuanzi_container_page_pv">
-            <span id="busuanzi_value_page_pv"></span> views
-            </span>
+          
           {% endif %}
 
           <!-- read time -->
