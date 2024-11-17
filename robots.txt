@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://simsi012.github.io/sitemap.xml
