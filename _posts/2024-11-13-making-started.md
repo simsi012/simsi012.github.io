@@ -269,11 +269,3 @@ published: True
 </div>
 <!-- #post-list -->
 ```
-
-+ 추가적으로 위에 liquid 파일을 보여드리기 위해 
-{% raw %}
-```shell
-{% raw %}
-```liquid
-```
-이런 형식으로 넣었습니다.
