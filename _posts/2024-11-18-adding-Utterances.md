@@ -12,7 +12,7 @@ published: true
 가장 많이 추천하는 댓글 기능 추가 방법입니다.
 
 ## 설치
-- [https://github.com/apps/utterances]에 들어가서 Configure을 누릅니다.
+- [Utterances 홈페이지](https://github.com/apps/utterances)에 들어가서 Configure을 누릅니다.
 - 본인의 레포지토리에 하시면 됩니다.
 - 여기서 레포지토리가 Public으로 설정되어있어야 합니다.
 - repository 이름은 ex: simsi012/simsi012.github.io
