@@ -65,6 +65,7 @@ https://github.com/SKHU-OSS-2024-2/information/blob/main/blog.md
 #### 로컬 변경사항 적용
 - 클론한 리포지토리 열기 (`README.md` 파일 확인)
 - `index.html` 파일 생성
+
 ```html
 <html>
 	<body>
@@ -72,6 +73,7 @@ https://github.com/SKHU-OSS-2024-2/information/blob/main/blog.md
 	</body>
 </html>
 ```
+
 - 좌측 **Source Control** 메뉴 선택
 - `+` 버튼을 클릭하여 변경사항 추가
 - 커밋 메시지 입력, 커밋 & 푸시
@@ -84,15 +86,20 @@ https://github.com/SKHU-OSS-2024-2/information/blob/main/blog.md
 - [공식 홈페이지](https://rubyinstaller.org/downloads/)에서 최신버전 다운로드 (Ruby+Devkit x.y.z-1 (x64)) 및 설치
 - 시작(윈도우 키)메뉴에서 `Start Command Prompt with Ruby` 실행
 - cd 명령어로 리포지토리가 있는 위치로 이동
+
 ```shell
 cd C:\Users\karina\Documents\karina.github.io
 ```
+
 - jekyll, bundler, webrick 설치
+
 ```shell
 gem install jekyll bundler
 gem install webrick
 ```
+
 - 설치 확인
+
 ```shell
 ruby -v
 jekyll -v
@@ -102,19 +109,25 @@ bundler -v
 ### Step 2-2. Jekyll 서버 구축
 
 - jekyll 생성
+
 ```shell
 jekyll new ./
 # 또는
 jekyll new ./ --force
 ```
+
 - bundle install
+
 ```shell
 bundle install
 ```
+
 - jekyll 서버 실행
+
 ```shell
 bundle exec jekyll serve
 ```
+
 - http://127.0.0.1:4000/ 또는 http://localhost:4000/ 접속 확인
 
 ## Step 3. Jekyll 테마 적용
