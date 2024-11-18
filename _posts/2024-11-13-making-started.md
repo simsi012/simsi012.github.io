@@ -168,8 +168,7 @@ timezone: Asia/Seoul
 
 url: "https://karina.github.io"
 
-github:
-  username: karina
+github: username: karina
 ```
 
 - 모든 변경사항 커밋 및 푸시
@@ -187,6 +186,7 @@ published: True
 ```
 
 위의 코드를 포스트의 메타 데이터에 넣어줍니다.
+
 예시 사진:
 ![publish_code_ex](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/publish.png)
 
