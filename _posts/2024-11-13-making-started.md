@@ -203,7 +203,7 @@ published: True
 
 위 경로에 있는 html 코드를 밑에 코드로 해당 부분에 넣어서 해결했습니다.
 
-{% raw %}
+
 ```liquid
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in site.posts %}
