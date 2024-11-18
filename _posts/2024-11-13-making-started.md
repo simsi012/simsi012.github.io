@@ -174,20 +174,23 @@ github:
 - 커밋 메시지 주의
 - 사이트 반영 확인 (예시: `https://karina.github.io`)
 
+### Step 3-5. 테마 오류 수정
+- 테마 오류 중 크게 2가지가 있었습니다.
+1. 포스팅을 했는데 화면에 안뜰 때.
+2. 화면 홈화면에 작성한 포스팅이 안보일 때.
 
-### Step 3-5. 개인적인 오류
+- 포스팅을 했는데 화면에 안뜰 때.
+```shell
+published: True
+```
+위의 코드를 포스트의 메타 데이터에 넣어줍니다.
 
-- 포스트가 안올라 갈 때
-
-그런데 post가 안올라가는 경우가 생기곤 합니다.
-
-그럴 때 "published: true"를 메타데이터에 삽입하여 해결했습니다.
-![publish meta ex](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/publish.png?raw=true)
-
-
-- 홈화면에 게시한 게시글이 뜨지 않을 때.
-
-홈화면에 게시한 게시글들이 뜨지 않는 방법을 home.html 수정을 통해 해결하였습니다.
+- 화면 홈화면에 작성한 포스팅이 안보일때
+저는 chat.gpt의 도움을 받아서 html코드를 수정했습니다.
+```shell
+_layouts/home.html
+```
+에 있는 html 코드를 밑에 코드로 해당 부분에 넣어서 해결했습니다.
 
 ```html
 <div id="post-list" class="flex-grow-1 px-xl-1">
@@ -260,7 +263,3 @@ github:
 </div>
 <!-- #post-list -->
 ```
-
-위의 부분을 _layouts/home.html 파일에 있는 부분에 맞게 바꿔줍니다.
-
-이렇게 하여 해결하였습니다.
