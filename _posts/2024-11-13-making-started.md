@@ -177,20 +177,17 @@ github:
 
 ### Step 3-5. 개인적인 오류
 
-
 - 포스트가 안올라 갈 때
 
 그런데 post가 안올라가는 경우가 생기곤 합니다.
 
 그럴 때 "published: true"를 메타데이터에 삽입하여 해결했습니다.
-![publish meta ex](./img/publish.png)
-
+![publish meta ex](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/publish.png?raw=true)
 
 
 - 홈화면에 게시한 게시글이 뜨지 않을 때.
 
 홈화면에 게시한 게시글들이 뜨지 않는 방법을 home.html 수정을 통해 해결하였습니다.
-
 
 ```html
 <div id="post-list" class="flex-grow-1 px-xl-1">
