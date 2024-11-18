@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 댓글을 달리게 해보자!
 author: simsi012
 date: 2024-11-18 22:19:00 +0800
