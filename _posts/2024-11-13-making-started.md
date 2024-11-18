@@ -185,14 +185,20 @@ github:
 ```shell
 published: True
 ```
+
 위의 코드를 포스트의 메타 데이터에 넣어줍니다.
+예시 사진:
+![publish_code_ex](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/publish.png)
+
 
 - 화면 홈화면에 작성한 포스팅이 안보일때
-저는 chat.gpt의 도움을 받아서 html코드를 수정했습니다.
+  저는 chat.gpt의 도움을 받아서 html코드를 수정했습니다.
+
 ```shell
-_layouts/home.html
+    _layouts/home.html
 ```
-에 있는 html 코드를 밑에 코드로 해당 부분에 넣어서 해결했습니다.
+
+위 경로에 있는 html 코드를 밑에 코드로 해당 부분에 넣어서 해결했습니다.
 
 ```html
 <div id="post-list" class="flex-grow-1 px-xl-1">
@@ -200,13 +206,11 @@ _layouts/home.html
     <article class="card-wrapper card">
       <a href="{{ post.url | relative_url }}" class="post-preview row g-0 flex-md-row-reverse">
         {% assign card_body_col = '12' %}
-
         {% if post.image %}
           {% assign src = post.image.path | default: post.image %}
           {% unless src contains '//' %}
             {% assign src = post.media_subpath | append: '/' | append: src | replace: '//', '/' %}
           {% endunless %}
-
           {% assign alt = post.image.alt | xml_escape | default: 'Preview Image' %}
 
           {% assign lqip = null %}
@@ -214,28 +218,23 @@ _layouts/home.html
           {% if post.image.lqip %}
             {% capture lqip %}lqip="{{ post.image.lqip }}"{% endcapture %}
           {% endif %}
-
           <div class="col-md-5">
             <img src="{{ src }}" alt="{{ alt }}" {{ lqip }}>
           </div>
-
           {% assign card_body_col = '7' %}
         {% endif %}
 
         <div class="col-md-{{ card_body_col }}">
           <div class="card-body d-flex flex-column">
             <h1 class="card-title my-2 mt-md-0">{{ post.title }}</h1>
-
             <div class="card-text content mt-0 mb-3">
               <p>{% include post-description.html %}</p>
             </div>
-
             <div class="post-meta flex-grow-1 d-flex align-items-end">
               <div class="me-auto">
                 <!-- posted date -->
                 <i class="far fa-calendar fa-fw me-1"></i>
                 {% include datetime.html date=post.date lang=lang %}
-
                 <!-- categories -->
                 {% if post.categories.size > 0 %}
                   <i class="far fa-folder-open fa-fw me-1"></i>
@@ -247,7 +246,6 @@ _layouts/home.html
                   </span>
                 {% endif %}
               </div>
-
               {% if post.pin %}
                 <div class="pin ms-1">
                   <i class="fas fa-thumbtack fa-fw"></i>
