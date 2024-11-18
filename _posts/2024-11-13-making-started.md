@@ -163,6 +163,7 @@ npm install && npm run build
 ```
 
 - `_config.yml` 파일 수정
+
 ```shell
 timezone: Asia/Seoul
 
@@ -175,12 +176,14 @@ github: username: karina
 - 커밋 메시지 주의
 - 사이트 반영 확인 (예시: `https://karina.github.io`)
 
+
 ### Step 3-5. 테마 오류 수정
 - 테마 오류 중 크게 2가지가 있었습니다.
 1. 포스팅을 했는데 화면에 안뜰 때.
 2. 화면 홈화면에 작성한 포스팅이 안보일 때.
 
 - 포스팅을 했는데 화면에 안뜰 때.
+
 ```shell
 published: True
 ```
