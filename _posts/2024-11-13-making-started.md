@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 블로그 제작기.1
 description: >-
   레포지토리 만들기 부터 테마 적용 그리고 포스팅
