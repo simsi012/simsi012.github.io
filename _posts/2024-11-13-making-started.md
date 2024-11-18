@@ -191,7 +191,7 @@ published: True
 
 위의 코드를 포스트의 메타 데이터에 넣어줍니다.
 
-예시 사진:
+
 ![publish_code_ex](https://raw.githubusercontent.com/simsi012/simsi012.github.io/refs/heads/main/assets/img/publish.png)
 
 
