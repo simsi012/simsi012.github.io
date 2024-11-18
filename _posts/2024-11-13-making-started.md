@@ -161,6 +161,7 @@ npm install && npm run build
 # _sass/dist
 # assets/js/dist
 ```
+
 - `_config.yml` 파일 수정
 ```shell
 timezone: Asia/Seoul
@@ -170,6 +171,7 @@ url: "https://karina.github.io"
 github:
   username: karina
 ```
+
 - 모든 변경사항 커밋 및 푸시
 - 커밋 메시지 주의
 - 사이트 반영 확인 (예시: `https://karina.github.io`)
