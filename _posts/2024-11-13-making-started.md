@@ -203,7 +203,8 @@ published: True
 
 위 경로에 있는 html 코드를 밑에 코드로 해당 부분에 넣어서 해결했습니다.
 
-```shell
+{% raw %}
+```liquid
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in site.posts %}
     <article class="card-wrapper card">
@@ -268,3 +269,11 @@ published: True
 </div>
 <!-- #post-list -->
 ```
+
++ 추가적으로 위에 liquid 파일을 보여드리기 위해 
+{% raw %}
+```shell
+{% raw %}
+```liquid
+```
+이런 형식으로 넣었습니다.
