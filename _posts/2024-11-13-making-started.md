@@ -191,7 +191,7 @@ published: True
 위의 코드를 포스트의 메타 데이터에 넣어줍니다.
 
 예시 사진:
-![publish_code_ex](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/publish.png)
+![publish_code_ex](https://raw.githubusercontent.com/simsi012/simsi012.github.io/refs/heads/main/assets/img/publish.png)
 
 
 - 화면 홈화면에 작성한 포스팅이 안보일때
@@ -203,7 +203,7 @@ published: True
 
 위 경로에 있는 html 코드를 밑에 코드로 해당 부분에 넣어서 해결했습니다.
 
-```html
+```liquid
 <div id="post-list" class="flex-grow-1 px-xl-1">
   {% for post in site.posts %}
     <article class="card-wrapper card">
@@ -221,9 +221,11 @@ published: True
           {% if post.image.lqip %}
             {% capture lqip %}lqip="{{ post.image.lqip }}"{% endcapture %}
           {% endif %}
+
           <div class="col-md-5">
             <img src="{{ src }}" alt="{{ alt }}" {{ lqip }}>
           </div>
+
           {% assign card_body_col = '7' %}
         {% endif %}
 
