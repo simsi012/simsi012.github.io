@@ -15,10 +15,15 @@ published: true
 ![Goat Counter sign up](https://raw.githubusercontent.com/simsi012/simsi012.github.io/refs/heads/main/assets/img/goatcounter.png)
 
 ## 회원가입
+
 Code : 원하시는 닉네임 쓰시면 됩니다.
+
 Site Domain : 자신의 깃허브 블로그 링크 ex: simsi012.github.io
+
 Email address : 자신의 이메일 주소
+
 Password : 자유롭게 입력하시면 됩니다.
+
 Fill in 9 here : 그냥 9 입력하시면 됩니다.
 
 ## 가입 후에는?
