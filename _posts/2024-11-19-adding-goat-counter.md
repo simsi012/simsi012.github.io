@@ -12,7 +12,7 @@ published: true
 ### GoatCounter
 [홈페이지](https://www.goatcounter.com/)로 들어가서 일단 회원가입을 해줘야합니다.
 들어가면 여러 입력칸들이 보일텐데 순서대로 입력해주시면 됩니다.
-![Goat Counter sign up]()
+![Goat Counter sign up](https://raw.githubusercontent.com/simsi012/simsi012.github.io/refs/heads/main/assets/img/goatcounter.png)
 
 ## 회원가입
 Code : 원하시는 닉네임 쓰시면 됩니다.
