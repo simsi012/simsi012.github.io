@@ -28,7 +28,9 @@ Fill in 9 here : 그냥 9 입력하시면 됩니다.
 
 ## 가입 후에는?
 맨 위 우측에 Settings가 있습니다.
+
 들어가셔서 "Allow adding visitor counts on your website" 항목 체크하시면 됩니다.
+
 그리고 Save 버튼 누르기.
 
 ### _config.yml 수정하기
