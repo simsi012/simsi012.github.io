@@ -60,9 +60,9 @@ published: true
 그럼 하나하나 리뷰 해보겠습니다.
 
 ## 1. Frank Ocean - Blonde  
-<iframe width="800" height="400" src="https://youtu.be/rLKc4a7grzg?si=Mrr5HsMuTQqH_5L1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-[Blonde Album Art](https://i.namu.wiki/i/mvuk-u7R8bF2sCxAbulrqHuGsMI_MQakoPPkVLBg1O1mlDCcTCtSxLDOOmABMdIlwAziITLd-9oV9U7TfWVglxAS9OM-5BlUn8AfD5mfIEmQ8xRjirp1lKx9DmaR8XgIBgCPqv9kc8yXf6-riWjZcw.webp)  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rLKc4a7grzg?si=MYxdLjj5usxj1Yi6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+![Blonde Album Art](https://i.namu.wiki/i/mvuk-u7R8bF2sCxAbulrqHuGsMI_MQakoPPkVLBg1O1mlDCcTCtSxLDOOmABMdIlwAziITLd-9oV9U7TfWVglxAS9OM-5BlUn8AfD5mfIEmQ8xRjirp1lKx9DmaR8XgIBgCPqv9kc8yXf6-riWjZcw.webp)  
   
 
 ***피치포크 선정 2010년대 최고의 앨범 1위***  
@@ -76,9 +76,9 @@ published: true
 5. 누가 들어도 괜찮아하는 바이브 (장담은 못합니다.)
 
 ## 2. Kanye West - My Beautiful Dark Twisted Fantasy
-<iframe width="800" height="400" src="https://youtu.be/o22SNYpmnZU?si=IdhJ4gqcBoeBRhSJ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-
-[MBDTF](https://i.namu.wiki/i/oi6wUCDM2PzfpDhepiHPxgdteOYi-g0RyYPXCnbAPlnukuY87zIrZjPbNbLc0788P0quZk-LwXbRoaPwRuIBim0M5GlroDhL0_CDh_t6g0j-X0Uql0Db1JIcTXs-qF743u4Fe_74M4VjCs1E675-Sw.webp)
+<<iframe width="560" height="315" src="https://www.youtube.com/embed/o22SNYpmnZU?si=x2TiRj2yBzTEEt6-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>  
+  
+![MBDTF](https://i.namu.wiki/i/oi6wUCDM2PzfpDhepiHPxgdteOYi-g0RyYPXCnbAPlnukuY87zIrZjPbNbLc0788P0quZk-LwXbRoaPwRuIBim0M5GlroDhL0_CDh_t6g0j-X0Uql0Db1JIcTXs-qF743u4Fe_74M4VjCs1E675-Sw.webp)
 
 ***피치포크 선정 2010년대 최고의 앨범***  
 ***피치포크 평점 10.0 ***  
