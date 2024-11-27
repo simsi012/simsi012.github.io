@@ -62,8 +62,8 @@ published: true
 ## 1. Frank Ocean - Blonde  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rLKc4a7grzg?si=MYxdLjj5usxj1Yi6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   
-![Blonde Album Art](https://i.namu.wiki/i/mvuk-u7R8bF2sCxAbulrqHuGsMI_MQakoPPkVLBg1O1mlDCcTCtSxLDOOmABMdIlwAziITLd-9oV9U7TfWVglxAS9OM-5BlUn8AfD5mfIEmQ8xRjirp1lKx9DmaR8XgIBgCPqv9kc8yXf6-riWjZcw.webp)  
-  
+<img src="https://i.namu.wiki/i/mvuk-u7R8bF2sCxAbulrqHuGsMI_MQakoPPkVLBg1O1mlDCcTCtSxLDOOmABMdIlwAziITLd-9oV9U7TfWVglxAS9OM-5BlUn8AfD5mfIEmQ8xRjirp1lKx9DmaR8XgIBgCPqv9kc8yXf6-riWjZcw.webp" width="500" height="500"/>
+
 
 ***피치포크 선정 2010년대 최고의 앨범 1위***  
 ***Apple Music 베스트 앨범 5위***  
@@ -76,10 +76,10 @@ published: true
 5. 누가 들어도 괜찮아하는 바이브 (장담은 못합니다.)
 
 ## 2. Kanye West - My Beautiful Dark Twisted Fantasy
-<<iframe width="560" height="315" src="https://www.youtube.com/embed/o22SNYpmnZU?si=x2TiRj2yBzTEEt6-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o22SNYpmnZU?si=x2TiRj2yBzTEEt6-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
-![MBDTF](https://i.namu.wiki/i/oi6wUCDM2PzfpDhepiHPxgdteOYi-g0RyYPXCnbAPlnukuY87zIrZjPbNbLc0788P0quZk-LwXbRoaPwRuIBim0M5GlroDhL0_CDh_t6g0j-X0Uql0Db1JIcTXs-qF743u4Fe_74M4VjCs1E675-Sw.webp)
-
+<img src="https://i.namu.wiki/i/oi6wUCDM2PzfpDhepiHPxgdteOYi-g0RyYPXCnbAPlnukuY87zIrZjPbNbLc0788P0quZk-LwXbRoaPwRuIBim0M5GlroDhL0_CDh_t6g0j-X0Uql0Db1JIcTXs-qF743u4Fe_74M4VjCs1E675-Sw.webp" width="500" height="500"/>  
+  
 ***피치포크 선정 2010년대 최고의 앨범***  
 ***피치포크 평점 10.0 ***  
 ***Apple Music Apple Music 베스트 앨범 100선 26위***  
