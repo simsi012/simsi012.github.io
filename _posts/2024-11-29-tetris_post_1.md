@@ -18,7 +18,7 @@ published: true
   
 먼저 괜찮게 작동하는 코드를 찾아봅시다.  
 음 어떤게 좋을지 고민하던차...  
-![original_tetris_source_github](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/tetris_origianl_github.png)  
+![original_tetris_source_github](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/tetris_origianl_github.png?raw=true)  
 오 꽤 해볼만한 코드를 발견했습니다!  
 <div class="tenor-gif-embed" data-postid="15449497793648793961" data-share-method="host" data-aspect-ratio="0.971888" data-width="100%"><a href="https://tenor.com/view/sigma-gif-15449497793648793961">Sigma GIF</a>from <a href="https://tenor.com/search/sigma-gifs">Sigma GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
