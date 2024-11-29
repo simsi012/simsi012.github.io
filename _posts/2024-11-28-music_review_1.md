@@ -2,7 +2,7 @@
 layout: post
 title: 주인장의 음악 취향을 들여다보자.
 author: simsi012
-date: 2024-11-18 22:19:00 +0800
+date: 2024-11-28 22:19:00 +0800
 categories: [Music]
 tags: [Music]
 published: true
