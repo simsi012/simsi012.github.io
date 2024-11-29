@@ -118,7 +118,7 @@ published: true
 이 부분 밑에 바로 코드를 하나 추가해줬습니다.  
   
 ```python
-self.is_fast_drop = False
+        self.is_fast_drop = False
 ```  
   
 게임 블록이 적절하게 떨어지기 위해 코드를 삽입한 부분입니다.  
