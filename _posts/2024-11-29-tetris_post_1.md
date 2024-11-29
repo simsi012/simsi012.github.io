@@ -18,7 +18,7 @@ published: true
   
 먼저 괜찮게 작동하는 코드를 찾아봅시다.  
 음 어떤게 좋을지 고민하던차...  
-![original_tetris_source_github]()  
+![original_tetris_source_github](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/tetris_origianl_github.png)  
 오 꽤 해볼만한 코드를 발견했습니다!  
 <div class="tenor-gif-embed" data-postid="15449497793648793961" data-share-method="host" data-aspect-ratio="0.971888" data-width="100%"><a href="https://tenor.com/view/sigma-gif-15449497793648793961">Sigma GIF</a>from <a href="https://tenor.com/search/sigma-gifs">Sigma GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
@@ -108,8 +108,8 @@ published: true
         self.main_sound('back.wav')
         self.start()  
 ```  
-위에 코드는 수정된 코드입니다.  
-
+위에 코드는 수정된 코드 첫 단락입니다.  
+  
 ```python
         self.screen = pygame.display.set_mode((P_UI.WIDTH, P_UI.HEIGHT))
         self.clock = pygame.time.Clock()
@@ -119,8 +119,10 @@ published: true
   
 ```python
 self.is_fast_drop = False
-``` 
+```  
+  
 게임 블록이 적절하게 떨어지기 위해 코드를 삽입한 부분입니다.  
+  
 False로 설정하여 개발자가 속도를 조절할 수 있도록 기초작업을 했습니다.  
   
 다음으로는  
@@ -130,10 +132,13 @@ False로 설정하여 개발자가 속도를 조절할 수 있도록 기초작�
         pygame.time.set_timer(Tetris.DROP_EVENT, 300)
 ```  
 위 코드에  
+  
 ```python  
         pygame.time.set_timer(Tetris.DROP_EVENT, P_UI.SPEED)
 ```  
+  
 맨 밑부분에 이 코드도 삽입해줍니다.  
+  
 게임 속도를 정의하는 값으로, 초기 DROP_EVENT와 업데이트 속도를 조절합니다.  
   
 자 여기까지가 원하는 동작의 기반 작업이라고 할 수 있습니다.  
@@ -206,10 +211,14 @@ False로 설정하여 개발자가 속도를 조절할 수 있도록 기초작�
             elif press[pygame.K_RIGHT]:
                 self.board.move_piece(dx=1, dy=0)
 ```  
-이렇게 코드를 더 넣어줬어야 했습니다.
+이렇게 코드를 더 넣어줬어야 했습니다.  
+
 코드를 보면 동시에 키가 눌렸을 때 이동을 할 수 있도록 따로 함수를 넣었습니다.  
+
 마침 잘 작동되는 것을 보고..  
+  
 <div class="tenor-gif-embed" data-postid="3522541636624242111" data-share-method="host" data-aspect-ratio="0.564257" data-width="100%"><a href="https://tenor.com/view/mike-myers-mikemyers-austin-powers-austin-powers-gif-yeah-baby-gif-3522541636624242111">Mike Myers Mikemyers GIF</a>from <a href="https://tenor.com/search/mike+myers-gifs">Mike Myers GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>  
+  
 감출 수 없는 기쁨...  
 
 근데 또 다른 문제가 기다리고 있었습니다...  
