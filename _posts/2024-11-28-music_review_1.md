@@ -135,7 +135,7 @@ published: true
 <img src="https://i.scdn.co/image/ab67616d0000b2730cd942c1a864afa4e92d04f2" width="640px" height="640px"/>  
   
   
-<img src=https://preview.redd.it/elon-tweets-the-ye-album-cover-v0-edaslgku09cb1.jpg?width=640&crop=smart&auto=webp&s=e3178357474d84d13f77854b2c8d45454f72fe17 width="690px" height="485px"/>  
+<img src="https://preview.redd.it/elon-tweets-the-ye-album-cover-v0-edaslgku09cb1.jpg?width=640&crop=smart&auto=webp&s=e3178357474d84d13f77854b2c8d45454f72fe17" width="690px" height="485px"/>  
   
   
 ***가장 인간적인 그의 모습을 담아낸 앨범***
@@ -156,7 +156,7 @@ published: true
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZJM4AQSbZDk?si=gFmth7y_y5nNv43d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
-<img src=https://i.scdn.co/image/ab67616d0000b2736818aa231aa543cf87e1374a width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b2736818aa231aa543cf87e1374a" width="640px" height="640px"/>  
   
 
 ***그냥 신납니다***
@@ -172,7 +172,7 @@ published: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qGolvLQTdz4?si=5xxot7jlQvWD4A8_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
   
-<img src=https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8 width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b273d0c72291cd96834e199e1ff8" width="640px" height="640px"/>  
 
   
 ***사실 표지가 이뻐서 손이 가는 앨범***
@@ -189,7 +189,7 @@ published: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bvaptx9ndeQ?si=4p9I41lc5PW31cdC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 
-<img src=https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b2732d56768bc14df3b0b3982efd" width="640px" height="640px"/>  
   
   
 ***주인장 선정 진또배기 명반임***  
@@ -209,7 +209,7 @@ CD가 아닌 USB로 피지컬 앨범이 제작되어 꽤 신선한 접근을 한
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hQ5x8pHoIPA?si=HWJ7JOgR9w7LF9WI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 
-<img src=https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41 width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b273912cc8fe2e9a53d328757a41" width="640px" height="640px"/>  
   
 
 ***전곡이 명곡인 명반***
@@ -231,7 +231,7 @@ CD가 아닌 USB로 피지컬 앨범이 제작되어 꽤 신선한 접근을 한
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ub747pprmJ8?si=2D1WBJnHaLp5Q-uL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
   
-<img src=https://i.scdn.co/image/ab67616d0000b273b7f5f38651637f858e69f479  width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b273b7f5f38651637f858e69f479"  width="640px" height="640px"/>  
   
 ***롤링 스톤 선정 역사상 가장 위대한 30대 EDM 앨범***  
 ***빅 비트 대표 명반***  
@@ -251,7 +251,7 @@ CD가 아닌 USB로 피지컬 앨범이 제작되어 꽤 신선한 접근을 한
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DBiPTbtdhJg?si=BMV3iYCR72Y_JGbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 
-<img src=https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699 width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699" width="640px" height="640px"/>  
   
 
 ***2017년 음악 부문 퓰리처상***  
@@ -268,7 +268,7 @@ CD가 아닌 USB로 피지컬 앨범이 제작되어 꽤 신선한 접근을 한
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fAMw9B5WoAM?si=eqJXyYxw_9Fu-5h7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 
-<img src=https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b27398ea0e689c91f8fea726d9bb" width="640px" height="640px"/>  
   
 
 ***피치포크 선정 2020 - 2024 100대 명반 2위***
@@ -287,7 +287,7 @@ CD가 아닌 USB로 피지컬 앨범이 제작되어 꽤 신선한 접근을 한
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOCeYxtEspI?si=ofW0gMPJS53DEgeo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 
-<img src=https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194 width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b273a1e867d40e7bb29ced5c0194" width="640px" height="640px"/>  
   
 
 ***의미는 없는데 그냥 신나!***
@@ -302,7 +302,7 @@ CD가 아닌 USB로 피지컬 앨범이 제작되어 꽤 신선한 접근을 한
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCEC_LGjLvg?si=mSknlh8zH-SPzdY1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 
-<img src= https://i.scdn.co/image/ab67616d0000b273cf871ddf9d67bbdeb0ac6a1a width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b273cf871ddf9d67bbdeb0ac6a1a" width="640px" height="640px"/>  
   
 
 ***그는 이 앨범을 발매 후 2일 뒤 자신의 별로 돌아갔다.***
@@ -324,7 +324,7 @@ CD가 아닌 USB로 피지컬 앨범이 제작되어 꽤 신선한 접근을 한
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qOjdvj113qM?si=H9tK0EkYSyb4zTxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
   
 
-<img src= https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57 width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57" width="640px" height="640px"/>  
   
 
 ***2020 그래미 베스트 랩 앨범***
@@ -340,7 +340,7 @@ CD가 아닌 USB로 피지컬 앨범이 제작되어 꽤 신선한 접근을 한
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIPH8LFYFRk?si=ofJgGh9WAj92Eb5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
 
   
-<img src= https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504 width="640px" height="640px"/>  
+<img src="https://i.scdn.co/image/ab67616d0000b273fd0d9a33127c1d3f58ba3504" width="640px" height="640px"/>  
 
 
 ***말해 뭐해 15년 멜론 차트를 지배한 앨범***
