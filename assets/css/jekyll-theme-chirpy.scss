@@ -7,4 +7,15 @@
 {%- endif -%}
 ';
 
+.sidebar-wrapper .social-icons a[href*="twitter.com"] {
+  display: none;
+}
+
+.sidebar-wrapper .social-icons a[href*="mailto.com"] {
+  display: none;
+}
+
+.sidebar-wrapper .social-icons a[href*="feed.xml"] {
+  display: none;
+}
 /* append your custom style below */

@@ -35,7 +35,7 @@ published: true
 7. G-DRAGON - 권지용EP
 8. Nujabes - Modal Soul
 9. Fatboy Slim - You've Come a Long Way, Baby
-10. Kendrick Lamar - DAME.
+10. Kendrick Lamar - DAMN.
 11. Playboi Carti - Whole Lotta Red
 12. Playboi Carti - Die Lit
 13. David Bowie - Blackstar
@@ -245,7 +245,7 @@ CD가 아닌 USB로 피지컬 앨범이 제작되어 꽤 신선한 접근을 한
 5. 또 들어주십시요!  
   
   
-## 10. Kendrick Lamar - DAME.
+## 10. Kendrick Lamar - DAMN.
   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DBiPTbtdhJg?si=BMV3iYCR72Y_JGbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
