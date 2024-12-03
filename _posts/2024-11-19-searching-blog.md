@@ -27,7 +27,7 @@ published: true
 
 ### Robot.txt와 sitemap.xml 만들기
 
-1. ## sitemap.xmlt 만들기
+1. ## sitemap.xml 만들기
 
 ```xml
 ---
