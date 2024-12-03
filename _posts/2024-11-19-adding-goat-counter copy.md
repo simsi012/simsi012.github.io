@@ -28,7 +28,7 @@ Password : 자유롭게 입력하시면 됩니다.
 Fill in 9 here : 그냥 9 입력하시면 됩니다.
 
 
-![goatcounter1]()  
+![goatcounter1](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/goatcounter1.png?raw=true)  
    
 ## 가입 후에는?
 맨 위 우측에 Settings가 있습니다.
@@ -57,4 +57,4 @@ pageviews:
 그리고 커밋 후 push하시면 됩니다.  
 
 이후 결과로 이렇게 확인할 수 있습니다!
-![goatcounter2]()
+![goatcounter2](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/goatcounter2.png?raw=true)

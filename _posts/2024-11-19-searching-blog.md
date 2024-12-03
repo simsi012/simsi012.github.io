@@ -86,8 +86,8 @@ Sitemap: https://kunheelib.github.io/sitemap.xml
 
 그리고 며칠 뒤면 밑에 사진처럼 자신의 블로그가 검색 엔진에서 검색됩니다.
 
-![google search]()  
+![google search](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/google%20search.png?raw=true)  
   
 
 
-![naver search]()
+![naver search](https://github.com/simsi012/simsi012.github.io/blob/main/assets/img/naver%20search.png?raw=true)
