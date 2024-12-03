@@ -74,12 +74,13 @@ layout: null
 sitemap.xml과 방법은 동일합니다.  
 
 
-```txt
+```
 User-agent: *
 Allow: /
 
 Sitemap: https://kunheelib.github.io/sitemap.xml 
 ```  
+  
 블로그 루트 디렉터리에 Robot.txt 파일을 만들어주고  
 위의 코드를 넣어주시면 됩니다.  
   
