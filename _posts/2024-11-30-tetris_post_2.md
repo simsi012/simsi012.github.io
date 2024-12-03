@@ -55,7 +55,7 @@ published: true
 ```
 
 이렇게 수정해주고 나면?  
-제 [깃허브 레포지토리](https://github.com/simsi012/pygame-echo-tetris)에 올라온 것처럼  
+제 깃허브에 올라온 것처럼  
 정상적으로 작동이 됩니다!  
 여기서 교훈을 하나 얻었습니다...  
 
