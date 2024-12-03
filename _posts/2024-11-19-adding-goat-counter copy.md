@@ -9,6 +9,7 @@ published: true
 ---
 이번에는 GoatCounter를 이용하여 방문자확인, 통계를 확인해보겠습니다.
 
+
 ### GoatCounter
 [홈페이지](https://www.goatcounter.com/)로 들어가서 일단 회원가입을 해줘야합니다.
 들어가면 여러 입력칸들이 보일텐데 순서대로 입력해주시면 됩니다.
@@ -26,6 +27,9 @@ Password : 자유롭게 입력하시면 됩니다.
 
 Fill in 9 here : 그냥 9 입력하시면 됩니다.
 
+
+![goatcounter1]()  
+   
 ## 가입 후에는?
 맨 위 우측에 Settings가 있습니다.
 
@@ -49,4 +53,8 @@ pageviews:
   provider: goatcounter
 ```
 
-그리고 커밋 후 푸시하시면 됩니다.
+
+그리고 커밋 후 push하시면 됩니다.  
+
+이후 결과로 이렇게 확인할 수 있습니다!
+![goatcounter2]()
